@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 15.1//EN
-N:Wiseman;Brett;;;
+N:Van Kirk;Christine;;;
 FN:Brett Wiseman
 ORG:Notre Dame CSE ;
-EMAIL;type=INTERNET;type=WORK;type=pref:bwisema3@nd.edu
-TEL;type=pref:+17089270554
-X-SOCIALPROFILE;type=GitHub;x-user="https://github.com/bwiseman77":x-apple:https%3A//github.com/bwiseman77
-X-SOCIALPROFILE;type=linkedin:http://www.linkedin.com/in/bwiseman77
-URL;type=WORK;type=pref:https://github.com/bwiseman77
+EMAIL;type=INTERNET;type=WORK;type=pref:cvankir2@nd.edu
+TEL;type=pref:+12148014389
+X-SOCIALPROFILE;type=GitHub;x-user="https://github.com/bwiseman77":x-apple:https%3A//github.com/cvankir2
+X-SOCIALPROFILE;type=linkedin:http://www.linkedin.com/in/cvankir2
+URL;type=WORK;type=pref:https://github.com/cvankir2
 END:VCARD
